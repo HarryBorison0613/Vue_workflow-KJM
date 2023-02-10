@@ -1,0 +1,1390 @@
+Hi @Nikita!
+
+Nikita  5:27 AM
+Hi
+
+Eric Heyde  5:28 AM
+Hi @Nikita!
+
+Nikita  5:28 AM
+Nice to meet you.
+
+Steve  5:29 AM
+So myself and Eric can been tick-tacking on freelancer so you've actually talked to both of us a bit already!
+
+Nikita  5:29 AM
+yes.
+
+Steve  5:29 AM
+So you said you had some questions about the requirements?
+
+Nikita  5:30 AM
+Not now. Now I am checking more detail of it.
+5:30
+If I have any question, I will ask to you.
+
+Eric Heyde  5:30 AM
+That’s cool - we’re on standby to answer anything you have.
+
+Nikita  5:31 AM
+and I have some problem on payment.
+5:31
+can I talk here about it?
+
+Steve  5:31 AM
+sure
+
+Nikita  5:31 AM
+In freelancer, I have to pay as fee to accept project.
+5:32
+I have few money on it and that fee is too much.
+5:32
+so I want to get some money by paypal and rest of them by freelancer.
+5:32
+is it possible?
+5:34
+Exactly, 200 AUD from freelancer and others from paypal.
+
+Steve  5:36 AM
+Me and Eric are just discussing :slightly_smiling_face:
+
+Nikita  5:37 AM
+Okay
+
+Eric Heyde  5:39 AM
+Looks like you are charged 11% of the bid = $143. Surely this is paid by you when we pay you (ie they take it off the top)?
+
+Nikita  5:40 AM
+sure
+5:40
+for me, it is just 12%
+5:40
+I should pay it when I accept project.
+5:40
+just like upfront.
+5:41
+if I have money on freelancer, I will pay, but now I have few on it.
+5:41
+so I want to get it via paypal.
+
+Nikita  5:47 AM
+is it not good for you?
+
+Eric Heyde  5:48 AM
+This is just our first time using Freelancer - and unexpected. So we’re working out how to manage this.
+
+Nikita  5:48 AM
+then you want to work on freelancer for this project?
+
+Eric Heyde  5:49 AM
+This project, yes. But if things work out, then maybe not for subsequent ones…
+
+Nikita  5:49 AM
+I have a solution for it. can I explain?
+5:50
+The current your project of freelancer is fixed price project. For accept it, I should pay before getting money.
+5:51
+But hourly base project is different from it.
+5:51
+So can you create another project with hourly base or small budget?
+5:52
+We can work on it with milestones for each step.
+
+Eric Heyde  6:00 AM
+Look, we’re just beginners on this platform - and there are just a few too many moving pieces here for us to feel comfortable. So if you don’t want to do the work with us under your offer and our acceptance of the offer, I think that this time we’ll go with another bidder. We had quite a large number of good offers. I think that once we have a good working relationship with someone we’re happy to be a lot more flexible - but we’re just at the starting gate now. So perhaps let me know what you think.
+
+Nikita  6:02 AM
+now I already start working on your project.
+6:02
+I have a problem on payment way. If you don't want to pay outside of freelancer. that's okay.
+6:03
+I will follow you.
+6:03
+Please let me know if you will work with me on this project or not.
+
+Eric Heyde  6:05 AM
+Yes, we’ll work with you - under the terms of your bid: $1300 and an estimated 7 days - and through Freelancer. If you’re OK with that then, we’re good to go.
+
+Nikita  6:05 AM
+okay
+6:05
+great
+6:06
+and can we divide this project to multiple steps?
+
+Eric Heyde  6:06 AM
+I’m happy with that in principle. @Steve Do you have a suggestion as to how we break this down?
+
+Nikita  6:07 AM
+I will make a suggestion for it.
+
+Eric Heyde  6:07 AM
+Sure
+
+Nikita  6:07 AM
+and do you want for me to accept project on freelancer before starting?
+6:08
+now I have no money on it, so I will accept it when I get some money on it.
+
+Eric Heyde  6:08 AM
+I’m ok with that strategy.
+
+Nikita  6:09 AM
+image.png 
+image.png
+
+
+6:09
+I will get back to you with suggestion about steps.
+
+Eric Heyde  6:09 AM
+Thanks.
+
+Nikita  6:10 AM
+which time will you be available?
+
+Eric Heyde  6:11 AM
+Both @Steve and I are pretty flexible. Certainly available for the next 6-7 hours today.
+
+Nikita  6:11 AM
+okay
+6:11
+see you soon
+
+Steve  6:12 AM
+Sorry other work call! Yeah that sounds good for me
+6:15
+Yeah i have my slack set up to forward stuff to my phone so assuming im not sleeping ill get it and answer when i can :slightly_smiling_face:
+
+Eric Heyde  6:15 AM
+Haha
+6:16
+Well I know about you and sleeping…
+
+Steve  6:16 AM
+:wink: correct i dont do much of it!
+
+Nikita  6:41 AM
+Hello @Eric Heyde
+
+Eric Heyde  6:41 AM
+Hey there!
+
+Nikita  6:42 AM
+I have a question.
+6:43
+I will work on current developing system or new project myself?
+
+Steve  6:43 AM
+just a new project yourself :slightly_smiling_face:
+6:44
+Most of the master project doesn't exist yet/ is still being built so there wouldn't be much help from it anyway
+
+Nikita  6:44 AM
+then we can face some problem of version.
+6:44
+ex. vue version and so on
+
+Steve  6:46 AM
+Good points heres my package.json but the short version is vue 3.2.0 (trying to keep as current as we can) and tailwind 2.2.2
+package.json 
+{
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite",
+Click to expand inline (55 lines)
+
+
+6:46
+main project IS using typescript but thats not a requirement :slightly_smiling_face:
+
+Nikita  6:47 AM
+can I see a sample page on it with tailwind css?
+6:50
+and I see some requirements on backend.
+6:50
+ex. some specificaitions for style of components(color, thickness and so on).
+6:51
+do you have any backend now?
+
+Steve  6:51 AM
+3 files 
+image.png
+
+
+image.png
+
+
+image.png
+
+
+6:51
+some page examples.
+6:51
+and backend doesn't exist yet :slightly_smiling_face:
+6:52
+but i think all you will probably need is like the data that would be passed in to your component correct?
+
+Nikita  6:53 AM
+I mean that page's code
+6:53
+exactly vue component of it
+
+Steve  6:57 AM
+yeah gimme a sec, ill get you a copy of the code
+
+Nikita  6:59 AM
+I have a suggestion for steps;
+5 steps
+1. make basic simple drag and drop elements to workflow (200 AUD/1 day.)
+2. make main feature of edit page (500 AUD/3 days)
+   (make step and branch elements that can drag and drop to plus button and can save them to json file)
+3. make style of edit page (200AUD/1 day)
+4. make display mode (200AUD/ 1 day)
+5. get feedback and fix it (200AUD/1 day) (edited) 
+
+Steve  7:01 AM
+yeah that seems a logical breakdown
+7:02
+and i assume as each milestone is complete part of the payment comes through?
+
+Eric Heyde  7:02 AM
+Yep. I will set up the milestones accordingly.
+
+Steve  7:03 AM
+and json file is perfect! easy to integrate it into the rest of the app later!
+
+Eric Heyde  7:11 AM
+Milestones are sorted.
+
+Nikita  7:14 AM
+thank you
+7:15
+I will start working from this evening.
+
+Eric Heyde  7:15 AM
+:+1:
+
+Steve  7:15 AM
+Is there anything from what you've read in the requirements thats unclear?
+
+Nikita  7:16 AM
+In fact, I've worked with American client, so my working time is different from you
+
+Steve  7:16 AM
+yeah its 7:16 am there?
+
+Nikita  7:16 AM
+8:16 am
+
+Steve  7:17 AM
+ahh ok :slightly_smiling_face: 4:16 here so our monday is just winding up! haha
+
+Nikita  7:17 AM
+I will change my working time from tomorrow or the day after tomorrow:slightly_smiling_face:
+7:18
+I will update you if I have any question or progress on it
+7:18
+Thanks for your efforts.
+
+Eric Heyde  7:19 AM
+Thank-you! Looking forward to working with you!
+
+Steve  7:37 AM
+Zip 
+
+conduction-frontend-main.zip
+ZipDownload Zip
+
+
+7:37
+Should be able to get that as a good example
+
+Nikita  12:50 PM
+Hello, @Steve, @Eric Heyde (edited) 
+
+Eric Heyde  12:53 PM
+Hi!
+
+Nikita  12:54 PM
+Can I start working on this source code?
+
+Eric Heyde  12:55 PM
+Yes that’s no problem
+
+Nikita  12:56 PM
+okay
+12:56
+and do you have hosting server?
+12:56
+how can we check about progress of working?
+
+Steve  12:57 PM
+do you have a github? i could just add you as a collab on the repo?
+
+Nikita  12:57 PM
+great
+12:57
+https://github.com/NikitaNevolin321
+
+GitHubGitHub
+NikitaNevolin321 - Overview
+NikitaNevolin321 has 4 repositories available. Follow their code on GitHub.
+
+Steve  12:57 PM
+same email?
+
+Nikita  12:58 PM
+will invite now?
+
+Steve  1:00 PM
+yeah just done :slightly_smiling_face: should have an invite
+1:00
+https://github.com/conduction-pty-ltd/conduction-workflow-builder
+
+Nikita  1:07 PM
+can i work on master branch? (edited) 
+1:07
+if not, I will create new branch from master. (edited) 
+
+Steve  1:08 PM
+yeah thats fine :slightly_smiling_face: i dont think theres any protection rules on main
+
+Nikita  1:08 PM
+okay
+1:09
+you will check source code from github when I change it? (edited) 
+
+Steve  1:12 PM
+yep! probably easiest. or i can setup a quick build pipeline on cloudflare so we can test there :slightly_smiling_face:
+
+Nikita  1:12 PM
+okay
+1:12
+thanks
+
+Steve  1:14 PM
+if you haven't figured out to boot the dev server just npm install then npm run dev
+
+Nikita  1:14 PM
+already done:thumbsup:
+
+Steve  1:23 PM
+haha awesome :slightly_smiling_face: figured that was pretty easy to figure out
+
+Steve  2:02 PM
+Ok setup cloudflare to build the site to a temp address when you push to main and will show up here https://conduction-workflow-builder.pages.dev/
+2:05
+11pm here so im going to head to bed, i'll try check in tomorrow as soon as i can incase you have any questions :slightly_smiling_face:
+
+Nikita  1:31 AM
+Hello
+1:31
+how are you?
+
+Steve  1:32 AM
+Hey Nikita
+
+Nikita  1:32 AM
+I've done the first step
+1:32
+please check
+
+Nikita  2:06 AM
+Hello
+
+Eric Heyde  2:20 AM
+I’ll get @Steve to look over it as soon as he gets a chance, and if OK, I’ll release the first milestone payment.
+
+Nikita  2:20 AM
+okay
+2:21
+it is just simple drag and drop
+2:21
+you can drag step and branch to + div.
+2:21
+when drop it, the plus button will replace with step or branch
+
+Nikita  2:43 AM
+Hi, @Steve
+
+Eric Heyde  2:53 AM
+I’ve chased Steve and I’ll keep chasing him until he’s done a quick check.
+
+Nikita  2:54 AM
+Now my time is 3:54 am
+2:54
+I've worked fulltime, so I need to go to sleep.
+
+Eric Heyde  2:54 AM
+Yeah - I get that. You go to sleep - we’ll have it sorted when you wake up.
+
+Nikita  2:55 AM
+To accept your project, I need to get money from first step.
+2:55
+your milestones will dissappear when I wake up.
+2:55
+first step is basic drag drop, so you can also check.
+2:57
+where is @Steve now?
+
+Steve  2:57 AM
+sorry been on work calls haha :slightly_smiling_face: ill take a look now :slightly_smiling_face:
+
+Nikita  2:57 AM
+you can drag and drop step and branch to + div
+2:58
+it will replace to step or branch
+
+Steve  2:59 AM
+Yeah that looks good so far!
+
+Nikita  3:00 AM
+can you release first milestone now?
+
+Steve  3:01 AM
+Yeah i think so @Eric Heyde Im happy with that
+
+Eric Heyde  3:01 AM
+Ok - on it.
+
+Nikita  3:02 AM
+then I will accept project. sorry but please release it quickly.
+3:02
+@Eric Heyde are you on freelancer now?
+
+Eric Heyde  3:03 AM
+I am. Just trying to work out how to do it.
+
+Nikita  3:03 AM
+@Eric Heyde will you release first milestone after accepting project?
+
+Eric Heyde  3:03 AM
+Certainly
+
+Nikita  3:04 AM
+let's chat on freelancer
+3:06
+now I am on IP agreement
+3:06
+just one sec
+
+Eric Heyde  3:07 AM
+Cool - waiting there for you.
+
+Nikita  3:07 AM
+accepted
+
+Eric Heyde  3:07 AM
+Released.
+
+Nikita  3:07 AM
+Thank you
+
+Steve  3:08 AM
+Sorry about the delay, was a last min, 2 hour conference I couldn't shake!
+
+Nikita  3:08 AM
+np
+3:08
+cool
+3:08
+I will move to next step.
+
+Steve  3:08 AM
+Sounds good!
+
+Eric Heyde  3:09 AM
+Excellent. Thanks!
+
+Nikita  3:09 AM
+sorry but I must go to sleep. I will update you if I have any question on step 2.
+
+Steve  3:09 AM
+All good, get some rest!
+
+Eric Heyde  3:09 AM
+sounds fair!
+
+Nikita  3:10 AM
+Thanks. See you later
+
+Nikita  7:54 AM
+@Steve, @Eric Heyde Hello
+7:54
+How are you?
+
+Steve  7:54 AM
+good mate, how are you doing?
+
+Nikita  7:54 AM
+I have a question on json file format.
+
+Eric Heyde  7:54 AM
+Going well thanks. How about you? Had some sleep?
+
+Nikita  7:54 AM
+All is going well
+7:55
+can i make a json file as tree to save to backend?
+7:56
+now it is working without branch.
+
+Steve  7:56 AM
+yeah thats fine!
+
+Nikita  7:56 AM
+so I need to add json format as tree for branch
+7:56
+okay, got it.
+7:56
+it will be done tomorrow as we promised
+
+Eric Heyde  7:57 AM
+:+1:
+
+Steve  7:57 AM
+when we actually have the backend it will all be bundled up and sent as json
+
+Nikita  7:57 AM
+with json stringify?
+
+Steve  7:57 AM
+probably yeah
+
+Nikita  7:58 AM
+what is backend framework?
+7:58
+don't have it yet?
+
+Steve  7:58 AM
+php/laravel but comms will be through graphql
+7:58
+yeah no not yet
+
+Nikita  7:58 AM
+I think node backend good for this.
+7:59
+I am good at node/express and php/laravel.
+7:59
+I hope I can make that backend next week.:slightly_smiling_face:
+
+Steve  8:00 AM
+haha i got a little more planning to do before then but who knows! :smile:
+
+Nikita  8:00 AM
+so can I get more tasks after this project?
+8:00
+just next week
+
+Steve  8:01 AM
+theres more work to be done but haven't scope a lot of the work yet :slightly_smiling_face:
+
+Nikita  8:01 AM
+I think you can prepare more works and let me go on working next week.:smile:
+
+Eric Heyde  8:02 AM
+A lot more work. But yes, I think that next week is too early for us.
+
+Nikita  8:02 AM
+anyway, okay. I will go on working on workflow.
+:raised_hands:
+1
+
+8:02
+thanks
+
+Eric Heyde  8:02 AM
+:thumbsup:
+
+Eric Heyde  1:40 AM
+Hi Nikita - seems that you’ve disappeared from Freelancer. Where are things at?
+1:41
+@Nikita
+
+Nikita  2:07 AM
+my account was closed by them
+2:08
+now I am reopening, but I think it is not possible.
+2:08
+:weary:
+2:08
+@Eric Heyde
+2:09
+Did you get your money back?
+
+Eric Heyde  2:09 AM
+Yes - well at least it turned up back in the Freelancer account.
+
+Nikita  2:09 AM
+how can we go on working?
+2:10
+can you give me money on paypal?
+2:11
+now second step almost done.
+2:11
+I can finish it within 4 hours.
+2:12
+@Eric Heyde?
+2:14
+can't we work outside of freelancer?
+
+Eric Heyde  2:21 AM
+Yeah this is a bit of a problem. What happened with Freelancer? They didn’t tell us that they were closing your account - and you have an active project with us.
+2:22
+I can reach out to them to find out what we can do?
+
+Nikita  2:24 AM
+I think no need
+2:24
+I am trying to reopen my account now
+2:24
+but I will take some time, I think
+
+Eric Heyde  2:24 AM
+:thumbsup:
+
+Nikita  2:25 AM
+so I hope you can pay through paypal for this project.
+2:25
+are you okay?
+
+Eric Heyde  2:27 AM
+Well there are a couple of problems there. Firstly I can’t get the money out of Freelancer quickly. It will take at least 15 days. Secondly, if we were to work outside of Freelancer, we would want the entire job completed and the code in our hands prior to making the payment. The risk to us to too large that we have a problem and have to start again. So those are my thoughts…
+
+Nikita  2:29 AM
+second is no problem
+2:30
+but I hope you can pay immediatley after finishing job.
+2:30
+as you know, my account closed, you can't go on working on freelancer now.
+2:33
+so can't you help me?
+2:33
+@Eric Heyde?
+
+Steve  2:34 AM
+Yeah i dont have a problem with that but i'd still like you to stick to that original milestone schedule so i can see what things are looking like too
+
+Eric Heyde  2:35 AM
+Yes, we can work to that - and pay as soon as we’re happy with the outcome.
+
+Nikita  2:35 AM
+on paypal?
+
+Eric Heyde  2:36 AM
+On paypal is OK - I’ve never done it before, but I’m sure I can work it out.
+
+Nikita  2:36 AM
+Okay.
+2:36
+I will show you my work this afternoon.
+2:37
+:thumbsup:
+
+Steve  2:37 AM
+5 steps
+1. make basic simple drag and drop elements to workflow
+2. make main feature of edit page
+   (make step and branch elements that can drag and drop to plus button and can save them to json file)
+3. make style of edit page
+4. make display mode
+5. get feedback and fix it
+
+Nikita  2:37 AM
+2 step almost done
+2:37
+I will show you soon
+
+Nikita  11:10 AM
+Hello, @Eric Heyde, @Steve
+11:15
+Can you hear me, @Steve?
+11:19
+Please check my work
+
+Steve  2:40 PM
+Hey Nikita, just had a quick look (just heading to bed here. Looks really good!
+2:40
+I'll take a closer look when i've had some sleep but yeah very nice!
+
+Nikita  3:43 AM
+Hi, @Eric Heyde
+
+Eric Heyde  4:37 AM
+Hi Nikita
+
+Nikita  4:43 AM
+How are you?
+
+Eric Heyde  4:44 AM
+@Nikita I’ve had a look too - and I agree it looks really good. There are a few touches and changes, but nothing major. I’m pleased.
+
+Nikita  4:44 AM
+the next step is modifing style of workflow.
+4:44
+I will make some changes on next step.
+
+Eric Heyde  4:45 AM
+Yes, good.
+
+Nikita  4:45 AM
+do you want to work on weekend too?
+
+Eric Heyde  4:46 AM
+I’m relaxed. Both Steve and I are happy to support you on the weekend if you want to do work then.
+4:46
+It may take a little longer to get a response from us. But we will respond.
+
+Nikita  4:47 AM
+I have some issue this weekend. so I will work on your project when I am free.
+4:47
+so I will finish next step next Monday morning.
+
+Eric Heyde  4:48 AM
+That is fine with me.
+
+Nikita  4:48 AM
+we finished 2 steps. (edited) 
+4:48
+can you give me some money for my work now?
+
+Eric Heyde  4:49 AM
+I had thought that we agreed that we would pay when all of the work is complete.
+
+Nikita  4:49 AM
+yes. but I have some issue my family.
+4:50
+and I am working full time for your job now
+4:50
+so I didn't earn for recent days.
+4:50
+can you give me some money, not total of 2 steps?
+
+Eric Heyde  4:51 AM
+As soon as the work is finished we will pay immediately. And we will be reasonable. If you want to push through to completion earlier then that is ok with me.
+
+Nikita  4:52 AM
+yes, I agreed with this.
+4:52
+but now I have some problem this weekend. so I hope you help me on it.
+4:52
+can you give me only $400 now?
+4:53
+I already upload my work on github, so you can get source code.
+4:53
+I think it is also reasonable payment.
+
+Eric Heyde  4:54 AM
+Let me see if I can get hold of Steve to understand his views on that. (I can’t reach him on his mobile right now). Happy to consider it. Give me some time have that discussion. Also give me your Paypal details.
+
+Nikita  4:55 AM
+gendarme1011@outlook.com
+4:56
+My paypal account has some problem. I think that is a reason of closing my freelancer account. It is my friend's paypal address.
+4:56
+If you pay on it, please let me know
+
+Eric Heyde  4:57 AM
+I’ll let you know.
+
+Nikita  4:57 AM
+thank you
+
+Eric Heyde  6:29 AM
+Hi @Nikita I’ve spoken to Steve and I’ll send $250 now to that address you specified. I’ll send the remainder of the money once the works are all completed. But I also don’t want to have to continue to have these conversations. We like your work a lot - but there have been a lot of “problems” on the money side and that makes us more reluctant to want to work with you - it makes us nervous that you will disappear and that we will be left with a mess that we have to clean up. I hope that will sort you out for now and early next week we can get the remainder paid to you once the work is complete. Then if there is subsequent work, we can have a very clear understanding going in as to how it will all work, that we then keep to!
+6:33
+Paid now.
+
+Nikita  1:29 PM
+Thanks for your payment.
+1:29
+I promise that I will ask when I finish all jobs what you want.
+1:29
+Good weekend!
+
+Steve  1:36 AM
+Sounds good Nikita
+
+Nikita  1:37 AM
+Did you check my work, @Steve?
+
+Steve  2:34 AM
+Just looking through now!
+
+Steve  2:02 AM
+Yeah sorry looked through and yeah code look really good Nikita :slightly_smiling_face: Some really good/simple ways to do things i'd thought would be quite hard! :smile:
+
+Nikita  2:03 AM
+:blush:
+2:04
+really sorry about payment.
+2:04
+I will finish other steps asap.
+
+Steve  2:05 AM
+I'm excited to see some of the styling in there see it all come to life! :smile:
+2:07
+dont fret! we are new to out-sourced work so going off book makes us question why! But you've really been great to be working with :slightly_smiling_face:
+
+Nikita  2:07 AM
+ah.
+2:07
+so you are really new to out-sourcing?
+
+Steve  2:08 AM
+We've done some with like local people but mostly theve been people we've sat down with and walked through what we want etc etc. not usually entirely by remote!
+2:09
+And we probably all heard plenty of horror stories about when out-sourcing goes bad!
+
+Nikita  2:10 AM
+okay, don't worry. I am honest person. I will satisfy you with my work and I will want only reasonable payment from you.
+
+Steve  2:11 AM
+No problem there :slightly_smiling_face:
+
+Nikita  2:11 AM
+Thank you. I will go on working from tomorrow morning. (still night here).
+
+Steve  2:12 AM
+All good!
+
+Nikita  2:12 AM
+Good day!
+
+Nikita  10:51 AM
+Hello, @Eric Heyde
+10:51
+How are you?
+
+Nikita  10:57 AM
+I have a problem
+
+Eric Heyde  11:01 AM
+Hi Nicita
+
+Nikita  11:02 AM
+Sorry, but I have a problem on payment.
+
+Eric Heyde  11:02 AM
+(oops Nikita!)
+
+Nikita  11:02 AM
+did you send to paypal yesterday?
+
+Eric Heyde  11:02 AM
+Yes I did. On Saturday.
+
+Nikita  11:02 AM
+how much and usd or aud?
+
+Nikita  2:35 AM
+How are you, @Steve, @Eric Heyde?
+
+Eric Heyde  2:38 AM
+Great thanks Nikita.
+2:38
+How’s it been going?
+
+Nikita  2:38 AM
+I just uploaded to git.
+2:38
+you can see my result there
+
+Eric Heyde  2:40 AM
+Cool - @Steve have a look when you get a chance! Thanks.
+
+Nikita  2:40 AM
+Okay
+2:40
+almost done there
+2:40
+so I hope you can give me feedback
+
+Eric Heyde  2:49 AM
+That’s great news.
+
+Nikita  2:50 AM
+just ALMOST
+2:50
+not complete
+2:50
+:smile:
+2:50
+maybe will finish this afternoon.
+
+Steve  3:05 AM
+Wow thats looking real!! :smile:
+
+Nikita  3:06 AM
+@Steve How are you?
+
+Steve  3:06 AM
+good!  wish it was still the weekend! haha
+
+Nikita  3:07 AM
+:smile:
+3:07
+did you check my work in detail?
+
+Steve  3:07 AM
+not this newest stuff not yet :slightly_smiling_face:
+
+Nikita  3:08 AM
+will check now?
+
+Steve  3:09 AM
+ill try to at lunch if not will this afternoon
+
+Nikita  3:10 AM
+okay
+3:10
+maybe it will finish this afternoon.
+
+Eric Heyde  3:55 AM
+Looking great Nikita!
+Just a few quick things from my side:
+I think that you’re yet to do the fit to screen, but looking forward to seeing that working. Probably related, I’d prefer to have our starting access centred in the screen. If I zoom in, I lose the left-hand side of the chart.
+We need to be able to fork to more than two arms in a branch. We are going to add further arms to the branch through the back end, so without that it’s going to be a bit harder to demonstrate - might need to liaise with Steve about how we demo that.
+In the “display” mode, I’d like any branches arms that are completely unoccupied to display as a single line. If there is a branch or a step in any arm, then it should obviously be displayed. The challenge here will be if, for example there are three arms out of a branch and only one of them has a step or branch, I’d like to display this as a two arm fork, one of which has that branch or step and the other as a plain line.
+The bottom of the workflow in display mode has a bit more space than I would prefer. I’ve attached an example. Ideally it would come up by one block.
+Screen Shot 2021-10-19 at 12.43.10 pm.png 
+Screen Shot 2021-10-19 at 12.43.10 pm.png
+
+
+
+Nikita  3:57 AM
+got it @Eric Heyde
+
+Nikita  7:38 AM
+Hello, @Steve
+7:40
+Are you there?
+7:42
+just updated
+7:43
+please check and give me feedback asap
+
+Steve  11:18 AM
+Yep im on it now! work tied me later than expected :slightly_smiling_face:
+
+Nikita  11:19 AM
+can you check it now?
+
+Steve  11:19 AM
+thats what im doing!
+
+Nikita  11:19 AM
+sounds good
+
+Nikita  11:42 AM
+still checking?
+
+Steve  11:43 AM
+Yeah mate :slightly_smiling_face: Looking good though. have found 1 strange thing where if you add a bunch of items that they seem to be extending off of the page into a non zoomable zone?
+
+Nikita  11:44 AM
+can you explain more detail?
+
+Steve  11:44 AM
+Code1.gif 
+Code1.gif
+
+
+
+
+11:44
+yeah got a gif
+11:44
+so when i zoom out i can SEE the items but i can't zoom into them. and if it zoom in higher up and i can pan down to them either.
+11:45
+I assume its because the design is always stretching outside the canvas or something?
+
+Nikita  11:45 AM
+okay
+11:45
+got it
+11:48
+that's all?
+
+Steve  11:48 AM
+thats all ive found so far yes :slightly_smiling_face:
+
+Nikita  11:49 AM
+okay
+11:49
+when will you be available here?
+
+Steve  11:49 AM
+im here right now!
+11:49
+Im gonna keep review let you know if i find anything else but i haven't yet!
+
+Nikita  11:50 AM
+I mean, how long will you be here?
+
+Steve  11:50 AM
+ohh few hours still maybe 3 hours?
+
+Nikita  11:50 AM
+okay
+11:51
+I will try to get back to you with in 3 hours.
+11:51
+:laughing:
+
+Eric Heyde  11:51 AM
+Hey @Steve - how do we check more than two arms to a branch?
+
+Nikita  11:52 AM
+oh, forgot it. I will check and let you know soon
+
+Steve  12:27 PM
+Ok so got a couple of things.
+First is the like styling on the step and how to customise it.  So right now if just a step called Step 1. We need to have a way to configure this through the layout so being able to send like the colour/heading/short description/addition text. And i dont think we can add that optional text box like in Figure 3 here.
+2 files 
+image.png
+
+
+image.png
+
+
+12:28
+Second, I think @Eric Heyde just mentioned about branches and being able to do a branch with more than 2 paths! But i think you're working on that already. If its easier for now to just add another element with say a 3 or 4 branch paths so we can see that it does work with styling!
+image.png 
+image.png
+
+
+12:32
+Third, I don't see anything for being able to click on a step/branch/plus. Need to add like a focus state on them so we can click on them. And for now just a click event that writes a console message saying something like
+Thing x was clicked
+Just so we can see that working
+
+Nikita  12:37 PM
+okay, got it
+12:37
+I have a question on first thing
+12:38
+just detail of step box
+12:38
+when we see detail of step, we need to change the gap height?
+
+Steve  12:38 PM
+Fourth, you've done too good a job on the the display mode! :smile: So when you go to display mode an empty branch collapses entirely which is perfect. But for say a 2 path branch that has something in 1 path, we should still show both lanes. BUT when you have the branches with multiple paths say 4 paths. if there is something on only 1 path. we show that 1 path and then 1 empty one. so basically we want to collapse all empty paths to 1 path, but show a min of 2 paths when there is anything in the branch. But if the branch is empty leave it how it works now! in all of these examples though the pluses should still collapse
+2 files 
+image.png
+
+
+image.png
+
+
+12:39
+Would that gap height apply to the whole work flow?
+
+Nikita  12:40 PM
+I mean that
+12:40
+I am asking that for you now
+12:40
+there is few description on documentation about that part
+
+Steve  12:40 PM
+ohh about how to handle the exatra information
+
+Nikita  12:41 PM
+yes
+12:41
+it is easy to add custom style to step element
+12:42
+just replace the text 'step 1' to a component.
+12:42
+but I couldn't find I can change the step element, so I remained it like that.
+12:42
+I thought you will add this feature on next step
+
+Steve  12:42 PM
+Right yeah, so our idea was basically if a step HAS additional info that step would be 2x the height of other steps. and anything on the same level would also be that height to keep it balanced
+12:43
+Does that mean we need to make a new component for each individual step type we want to have though?
+
+Nikita  12:43 PM
+I already made a config file to change gap size, so I can add 2x height for the detail view.
+12:44
+we can make a component to show a steps with name, detail and so on
+
+Steve  12:44 PM
+yeah the idea was like this. anything on that same level would be that height to balance it.
+image.png 
+image.png
+
+
+12:44
+but if you have an idea how to do that already thats kool
+12:45
+but does that mean if i have say 15 different "types" of steps we'd be making 15 different components?
+
+Nikita  12:45 PM
+I have no idea now, but I will add this feature on the next step if you hire me on the next step.:smiley:
+12:45
+no we can make only one
+12:46
+I add detail button on top right
+12:46
+did you see it?
+
+Steve  12:46 PM
+right ok good! so we should be able to define like the content of the step within the layout initElement then?
+12:47
+I did see the detail button but i didn't see it do anything?
+
+Nikita  12:47 PM
+yes, I think so
+12:47
+it is toggle a state like showDetail
+12:48
+so we can show different element by this state to step element.
+12:48
+I think it is enough to make on next step
+
+Steve  12:50 PM
+yeah those are the last little bits
+
+Nikita  12:50 PM
+okay
+12:51
+I will add them this evening.
+
+Steve  12:51 PM
+:thumbsup: you're a champ!
+12:52
+I'll just ping @Eric Heyde to make sure the detail i've put on the fourth point is right with regards to the collapsing branches!
+12:52
+Really needs the branches with more than 2 paths to show it though haha
+12:53
+I think he's already busy looking at what comes next! :stuck_out_tongue:
+
+Eric Heyde  12:55 PM
+Yes I agree with point four. In display mode where there is a branch with a step on an arm then a maximum of one empty path should be shown even if there are multiple in edit mode.
+
+Nikita  12:57 PM
+when we have three branched with 2 empty, we need to show all?
+12:57
+image.png 
+image.png
+
+
+
+Eric Heyde  12:58 PM
+We show two branches.
+One with the step + one empty.
+12:59
+If there are five arms, with two including steps, we should show three arms. The two with steps + one empty.
+12:59
+Make sense?
+
+Nikita  1:00 PM
+yes, always remain a empty branch, seems some challenging now, but I will try to do it.
+
+Steve  1:02 PM
+:raised_hands:
+1:03
+I'll be round for a  couple more hours if you have any questions with any of that :slightly_smiling_face:
+
+Nikita  1:05 PM
+okay, thanks
+
+Eric Heyde  1:06 PM
+I’m going to head off now. Be around in the morning.
+
+Nikita  4:11 AM
+how are you, @Steve, @Eric Heyde
+
+Steve  4:11 AM
+Good @Nikita How you going? (edited) 
+
+Nikita  4:11 AM
+I've fixed all of them.
+4:11
+now it is building
+
+Steve  4:12 AM
+Thats awesome! Im about to step into a call so i can't review it now but i will as soon as i can :slightly_smiling_face:
+
+Nikita  4:12 AM
+you can see it few mins later
+
+Steve  4:13 AM
+Did you run into any problems?
+
+Nikita  4:13 AM
+no problem on it
+4:13
+it was challenging for me yesterday, but I've done all:smiley:
+4:14
+builded
+4:14
+you can check now
+
+Steve  4:14 AM
+Wow good on you! I'll pull it down and check it all out as soon as i can :slightly_smiling_face:
+
+Nikita  4:14 AM
+okay
+
+Eric Heyde  4:16 AM
+I’ve had a quick look. Looks really good. Well done Nikita!
+
+Nikita  4:18 AM
+Can you give me some feedback on it, @Eric Heyde?
+
+Eric Heyde  4:21 AM
+Everything looks pretty good to me. There may be some things that @Steve needs to check. For example when “clicking” on a stage, we need to be able to highlight the block. That might be something that we need to sort at our end and Steve can advise on that. Great to see the larger number of branches. Also good to see what we wanted for displaying empty branches in display mode.
+4:23
+Good also to see the additional text boxes for detail mode. (Looks like the grid seems to go over the top of the junction?)
+
+Nikita  4:24 AM
+so don't you have any feedback on it?
+
+Eric Heyde  4:25 AM
+Not really. I think it’s really good. Can you please move the grid to behind the blocks?
+
+Nikita  4:25 AM
+ah, okay
+
+Steve  10:20 AM
+Hey all, sorry ended up being 1 of those days. Looks amazing, i've found just a couple of small bugs, but otherwise i think everything looks great! There seems to be an error/warning spamming the console when you drag around, is that something we can handle? or is that just that pan-zoom library being annoying?(attached a pic) And 1 other really small thing i found. if you drag in a step using  the icon it just drags the icon and not the whole step. (see attached gif).
+2 files 
+image.png
+
+
+Code1.gif
+
+
+
+
+10:23
+And just in general. with the extended hieght for the detail stuff. I assume its something that has to be done across the whole flowchart so as to avoid steps being out of sequence with different heights? I dont think we need to do it but im keen to know how hard it would be to have it only extend like the row where extra information exists so that we wouldn't have to blow out the whole chart. Just want to know if its just too hard to do and we gotta make do or if its like... difficult but CAN be done.
+10:23
+I love the new zoom out scale now! :smile:
+image.png 
+image.png
+
+
+
+Eric Heyde  11:22 AM
+Also noticed that when the “detail” button is pressed the “step” icon to be dragged in also shows the detail. Prefer for it to look the same at all times (without the detail text).
+
+Nikita  12:08 PM
+Hello, @Steve. I fixed warning and icon drag problems.
+12:09
+you can check.
+12:10
+About the detail height problem, I think it is not problem what you said. I think I can do it on next step. We can save data to pinia store.
+
+Steve  12:11 PM
+ohh right i think i know where you're going with that!
+12:11
+yeah i saw you used some pinia! :smile: i haven't used it much yet
+12:11
+looked good though
+
+Nikita  12:11 PM
+please check problems and let me know
+
+Steve  12:19 PM
+Mate it looks good! i think we are there! :smile:
+
+Nikita  12:20 PM
+so all is good?
+12:20
+Hello, @Eric Heyde
+
+Steve  12:21 PM
+Yeah, just double checked all the requirements and looks like everything is checked off! no bugs, and everything working as expected! Bravo!!!
+
+Eric Heyde  12:23 PM
+Just one thing from me - from my last message. When we are in “detail” mode can you please not have the additional text box on the palette on the left hand side?
+12:23
+I’ll process the payment now though.
+
+Nikita  12:25 PM
+okay, it is fixed now
+12:25
+building now
+
+Eric Heyde  12:25 PM
+@Nikita I’ve discussed this with Steve, and we will send you another AU$1000. The cost to us will be almost $1500 - (including paypal and exchange fees etc) so we are basically covering the loss of $200 though Freelancer, but we think your work has been worth it.
+12:26
+Do you want the funds sent to the same PayPal account?
+
+Nikita  12:26 PM
+yes
+12:26
+and I think the Freelancer must return your money.
+
+Eric Heyde  12:26 PM
+Ok - I’m on it.
+
+Nikita  12:26 PM
+I didn't receive it and they get that money.
+12:27
+they got money without any work.:smile:
+
+Steve  12:27 PM
+did you ever get you're account back?
+
+Eric Heyde  12:27 PM
+True - but they introduced us
+
+Nikita  12:27 PM
+you can contact them and get money back. I am happy to get that $1000.
+12:27
+can you send it without paypal fee?
+
+Eric Heyde  12:27 PM
+They did say the that money was “paid” to you.
+
+Nikita  12:28 PM
+but my account closed and they get money back from me.
+
+Eric Heyde  12:28 PM
+Anyhow I’ll get the wheels moving…
+
+Nikita  12:28 PM
+I didn't withdraw that moeny.
+12:28
+okay
+12:28
+thanks
+12:29
+shall I send paypal address again?
+12:29
+gendarme1011@outlook.com
+12:30
+And last thing is fixed. you can check it @Eric Heyde
+
+Eric Heyde  12:30 PM
+Screen Shot 2021-10-20 at 9.30.23 pm.png 
+Screen Shot 2021-10-20 at 9.30.23 pm.png
+
+
+
+Nikita  12:31 PM
+Thanks for your payment
+
+Eric Heyde  12:31 PM
+Thanks for your work. I saw the last change. Thanks.
+
+Nikita  12:32 PM
+Can we go on working on other project together?
+
+Eric Heyde  12:33 PM
+We don’t have anything ready to go right now, unfortunately. But will get in touch when we are ready.
+
+Nikita  12:34 PM
+okay, thanks
+12:35
+I am happy to work with you
+12:35
+See you again.
